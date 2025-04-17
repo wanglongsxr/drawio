@@ -198,8 +198,8 @@
         <mxCell id="H1Zy_JzdvqEBFhURCvzx-52" value="确定赛道" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H1Zy_JzdvqEBFhURCvzx-54" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;注意，不发文！！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1105" y="771" width="150" height="30" as="geometry" />
+        <mxCell id="TRvtztRBOVdDQndzEKtB-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;b style=&quot;color: rgb(255, 0, 0); text-align: center; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;注意，不发文！！&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据衡量指标&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;点赞收藏 20条以上&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;评论 10条左右 （如“这脑洞绝了！”）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="711" width="260" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
