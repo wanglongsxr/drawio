@@ -163,13 +163,13 @@
         <mxCell id="H1Zy_JzdvqEBFhURCvzx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="1" source="H1Zy_JzdvqEBFhURCvzx-34" target="H1Zy_JzdvqEBFhURCvzx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TRvtztRBOVdDQndzEKtB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1Zy_JzdvqEBFhURCvzx-34" target="TRvtztRBOVdDQndzEKtB-5">
+        <mxCell id="TRvtztRBOVdDQndzEKtB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="H1Zy_JzdvqEBFhURCvzx-34" target="TRvtztRBOVdDQndzEKtB-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TRvtztRBOVdDQndzEKtB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1Zy_JzdvqEBFhURCvzx-34" target="TRvtztRBOVdDQndzEKtB-6">
+        <mxCell id="TRvtztRBOVdDQndzEKtB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="H1Zy_JzdvqEBFhURCvzx-34" target="TRvtztRBOVdDQndzEKtB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TRvtztRBOVdDQndzEKtB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H1Zy_JzdvqEBFhURCvzx-34" target="TRvtztRBOVdDQndzEKtB-7">
+        <mxCell id="TRvtztRBOVdDQndzEKtB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="H1Zy_JzdvqEBFhURCvzx-34" target="TRvtztRBOVdDQndzEKtB-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1Zy_JzdvqEBFhURCvzx-34" value="更新频率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -202,17 +202,20 @@
         <mxCell id="H1Zy_JzdvqEBFhURCvzx-52" value="确定赛道" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TRvtztRBOVdDQndzEKtB-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;b style=&quot;color: rgb(255, 0, 0); text-align: center; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;注意，不发文！！&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据衡量指标&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;点赞收藏 20条以上&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;评论 10条左右 （如“这脑洞绝了！”）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TRvtztRBOVdDQndzEKtB-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;b style=&quot;color: rgb(255, 0, 0); text-align: center; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;注意，不发文！！&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;数据衡量指标&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;点赞收藏 20条以上&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;评论 10条左右 （如“这脑洞绝了！”）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1130" y="711" width="260" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TRvtztRBOVdDQndzEKtB-5" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;单日发布≤2条笔记&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TRvtztRBOVdDQndzEKtB-5" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;单日发布≤2条笔记&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TRvtztRBOVdDQndzEKtB-6" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;商单内容占比≤30%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TRvtztRBOVdDQndzEKtB-6" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;商单内容占比≤30%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TRvtztRBOVdDQndzEKtB-7" value="前一个月日更笔记" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TRvtztRBOVdDQndzEKtB-7" value="前一个月日更笔记" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YTPgrza1yAuFLcbrTlRf-1" value="小红书看到一个路子比较野的博主，纯靠截别人卖货的的贴子，然后文案是那种大部分人长搜的内容，引流，最后粉丝突破1000后，直接挂小清单，卖产品，博主名称： 买个锤子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1724" width="970" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
